@@ -10,6 +10,9 @@ library(rmapshaper)
 library(shinycssloaders)
 library(shinyalert)
 library(crosstalk)
+library(DBI)
+library(RSQLite)
+
 
 # Server ------------------------------------------------------------------
 
